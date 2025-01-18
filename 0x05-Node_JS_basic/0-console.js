@@ -3,8 +3,7 @@
  * @param {string} message - The message to display.
  */
 function displayMessage(message) {
-    console.log(message);
-  }
-  
-  module.exports = displayMessage;
-  
+  console.log(message); // Correctly indented with 2 spaces
+}
+
+module.exports = displayMessage;
